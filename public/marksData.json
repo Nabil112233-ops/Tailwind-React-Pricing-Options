@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Rahim",
+        "subjects": {
+            "physics": 78,
+            "chemistry": 82,
+            "biology": 74
+        }
+    },
+    {
+        "id": 2,
+        "name": "Karim",
+        "subjects": {
+            "physics": 85,
+            "chemistry": 79,
+            "biology": 88
+        }
+    },
+    {
+        "id": 3,
+        "name": "Jamal",
+        "subjects": {
+            "physics": 92,
+            "chemistry": 91,
+            "biology": 95
+        }
+    },
+    {
+        "id": 4,
+        "name": "Sakib",
+        "subjects": {
+            "physics": 67,
+            "chemistry": 72,
+            "biology": 70
+        }
+    },
+    {
+        "id": 5,
+        "name": "Tariq",
+        "subjects": {
+            "physics": 74,
+            "chemistry": 69,
+            "biology": 76
+        }
+    },
+    {
+        "id": 6,
+        "name": "Nabil",
+        "subjects": {
+            "physics": 88,
+            "chemistry": 85,
+            "biology": 90
+        }
+    },
+    {
+        "id": 7,
+        "name": "Hasan",
+        "subjects": {
+            "physics": 56,
+            "chemistry": 61,
+            "biology": 59
+        }
+    },
+    {
+        "id": 8,
+        "name": "Rafiq",
+        "subjects": {
+            "physics": 81,
+            "chemistry": 77,
+            "biology": 84
+        }
+    },
+    {
+        "id": 9,
+        "name": "Imran",
+        "subjects": {
+            "physics": 95,
+            "chemistry": 89,
+            "biology": 92
+        }
+    },
+    {
+        "id": 10,
+        "name": "Shahin",
+        "subjects": {
+            "physics": 70,
+            "chemistry": 65,
+            "biology": 72
+        }
+    }
+]
