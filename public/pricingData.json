@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "name": "Basic",
+    "price": "$20/month",
+    "description": "Perfect for beginners who want access to essential gym facilities.",
+    "features": [
+      "Access to gym equipment",
+      "Locker facility",
+      "1 free personal training session",
+      "Open 6 days a week",
+      "Free Wi-Fi",
+      "Access to drinking water station"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Standard",
+    "price": "$40/month",
+    "popular": true,
+    "description": "Best for fitness enthusiasts who want group workouts and extra benefits.",
+    "features": [
+      "Everything in Basic",
+      "Unlimited group classes (Yoga, Zumba, HIIT)",
+      "Diet & nutrition guide",
+      "Open 7 days a week",
+      "2 personal training sessions",
+      "Free fitness assessment"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium",
+    "price": "$70/month",
+    "description": "Ideal for serious trainers who need full benefits and premium services.",
+    "features": [
+      "Everything in Standard",
+      "Unlimited personal training",
+      "Sauna & steam room access",
+      "Priority locker & shower",
+      "Custom workout plan",
+      "24/7 gym access"
+    ]
+  }
+]
