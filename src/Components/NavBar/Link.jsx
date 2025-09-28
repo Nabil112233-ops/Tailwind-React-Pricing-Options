@@ -3,8 +3,8 @@ import Navbar from './Navbar';
 
 const Link = ({route}) => {
     return (
-        <ul>
-            <li className='mr-4'><a href={route.path}>{route.name}</a></li>
+        <ul className='hover:bg-blue-400 md:p-2'>
+            <li className=''><a href={route.path}>{route.name}</a></li>
         </ul>
     );
 };
